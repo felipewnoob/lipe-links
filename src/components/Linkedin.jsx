@@ -2,9 +2,9 @@ import React from 'react'
 import { FaLinkedin } from "react-icons/fa";
 function Linkedin() {
   return (
-    <div className='container-linkedin links'>
+    <a href='https://linkedin.com' className='container-linkedin links' target='_blank'>
       <FaLinkedin />Linkedin<FaLinkedin />
-    </div>
+    </a>
   )
 }
 

@@ -1,0 +1,30 @@
+.links{
+  border: 2px solid brown;
+  border-radius: 10px;
+  width: 90%;
+  height: 40px;
+  padding: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-decoration: none;
+
+  background-color: beige;
+  font-size: 28px; 
+}
+
+
+
+
+
+
+.container-app{
+  background-color: burlywood ;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
